@@ -7,4 +7,4 @@ The first module detects the errors corresponding to hierarchical relationships 
 
 The second module focuses on harmonic degrees. First, by using annotations of key in addition to that of chords, this module determines the harmonic degrees of the predicted chord and of the target chord. Then, it counts the substitutions of harmonic degrees when it is possible.
 
-More information: Tristan Carsault, Nika Jérôme, Philippe Esling,"Using musical relationships between chord labels in Automatic Chord Extraction tasks", in Proceedings of the International Society for Music Information Retrieval Conference ISMIR 2018, Paris, France, 2018.
+More information (please mention this paper when using the library): Tristan Carsault, Nika Jérôme, Philippe Esling,"Using musical relationships between chord labels in Automatic Chord Extraction tasks", in Proceedings of the International Society for Music Information Retrieval Conference ISMIR 2018, Paris, France, 2018.
